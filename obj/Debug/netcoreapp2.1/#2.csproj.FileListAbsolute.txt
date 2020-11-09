@@ -1,0 +1,11 @@
+D:\@Coding\Tendencias\#2\bin\Debug\netcoreapp2.1\#2.deps.json
+D:\@Coding\Tendencias\#2\bin\Debug\netcoreapp2.1\#2.runtimeconfig.json
+D:\@Coding\Tendencias\#2\bin\Debug\netcoreapp2.1\#2.runtimeconfig.dev.json
+D:\@Coding\Tendencias\#2\bin\Debug\netcoreapp2.1\#2.dll
+D:\@Coding\Tendencias\#2\bin\Debug\netcoreapp2.1\#2.pdb
+D:\@Coding\Tendencias\#2\obj\Debug\netcoreapp2.1\#2.csprojAssemblyReference.cache
+D:\@Coding\Tendencias\#2\obj\Debug\netcoreapp2.1\#2.csproj.CoreCompileInputs.cache
+D:\@Coding\Tendencias\#2\obj\Debug\netcoreapp2.1\#2.AssemblyInfoInputs.cache
+D:\@Coding\Tendencias\#2\obj\Debug\netcoreapp2.1\#2.AssemblyInfo.cs
+D:\@Coding\Tendencias\#2\obj\Debug\netcoreapp2.1\#2.dll
+D:\@Coding\Tendencias\#2\obj\Debug\netcoreapp2.1\#2.pdb
